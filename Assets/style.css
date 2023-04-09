@@ -8,7 +8,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #6096B4;
-
    
 }
 
@@ -25,4 +24,12 @@ li a{
 
 li a:hover{
     background-color: #f8cba6;
+}
+
+img {
+    display: block;
+    padding: 75px;
+    margin-left: 40%;
+    margin-right: auto;
+    width: 50%;
 }
