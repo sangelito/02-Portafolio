@@ -35,8 +35,29 @@ img {
 }
 
 h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 75px;
+    width: 600px;
+    height: 200px;
     background-color: #BDCDD6;
     text-align: center;
     position: absolute;
-    top: 100px;
+    top: 70px;
+    left: 25px;
+    padding: 25px;
+    
 }
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    width: 590px;
+    height: 300px;
+    background-color: #BDCDD6;
+    text-align: center;
+    position: absolute;
+    left: 25px;
+    top: 400px;
+    padding: 30px;
+}
+
