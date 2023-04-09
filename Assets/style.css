@@ -33,3 +33,10 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+h1{
+    background-color: #BDCDD6;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+}
