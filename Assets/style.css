@@ -45,6 +45,7 @@ h1{
     
 }
 
+
 p {
     font-family: Helvetica, sans-serif;
     font-size: 30px;
@@ -80,7 +81,6 @@ h2{
     text-align: center;
     color: #6096B4;
   }
-  
   /* Bottom left text */
   .bottom-left {
     font-family:  Helvetica, sans-serif;
