@@ -71,6 +71,27 @@ h2{
     display: block;
 }
 
+.marketing-web:hover{
+    transform: scale(1.1);
+}
+
+.container1 {
+    position: relative;
+    text-align: center;
+    color: #6096B4;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    font-family:  Helvetica, sans-serif;
+    font-size: 35px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #EEE9DA;
+    padding: 10px;
+  }
 
 *{
     box-sizing: border-box;
